@@ -16,7 +16,7 @@ show_button_links: true
 show_post_date: true
 show_post_thumbnail: true
 sidebar:
-  title: Categories
+  title: Tags
   description: "
   [Life](/categories/life/)&nbsp;&nbsp;
   [中文](/categories/中文/)&nbsp;&nbsp;
