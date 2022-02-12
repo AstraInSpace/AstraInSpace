@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Astra in Space on Astra In Space</title>
+    <title>Blog on Astra In Space</title>
     <link>https://astra-in-space.netlify.app/blog/</link>
-    <description>Recent content in Astra in Space on Astra In Space</description>
+    <description>Recent content in Blog on Astra In Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://astra-in-space.netlify.app/blog/index.xml" rel="self" type="application/rss+xml" />
