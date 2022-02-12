@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /blog
 action_type: text
-description: I write in Chinese and English. My life philosophy is that failure is a constant in life. What matters is how you treat failure and carry on afterwards. The number of trials and failure is more important than the number of success. Therefore, I will use this blog to record my failures, my achievements, and my reflections.
+description: My life philosophy is that failure is an unavoidable constant in life and what matters is not how many times you succeed, but how many times you carry on even after you fail. Therefore, I will use this blog to record my failures, my achievements, and my reflections.<br>I write in Chinese and English. 
 image_left: true
 images:
 - img/revoir.jpg
