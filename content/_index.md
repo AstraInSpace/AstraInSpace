@@ -2,10 +2,10 @@
 action_label: Read More &rarr;
 action_link: /blog
 action_type: text
-description: My life philosophy is that failure is an unavoidable constant in life and what matters is not how many times you succeed, but how many times you carry on even after you fail. Therefore, I will use this blog to record my failures, my reflections, and - maybe - my achievements as well.<br>I write in Chinese and English. 
+description: My life philosophy is that failure is an unavoidable constant in life and what matters is not how many times you succeed, but how many times you carry on even after you fail. Therefore, I will use this blog to record my failures, my reflections, and - maybe - my achievements sometimes. Also, I write in mostly Chinese and occationally English. 
 image_left: true
 images:
-- img/revoir.jpg
+- img/avatar-right.jpg
 show_action_link: true
 show_social_links: true
 subtitle: Welcome to my space.

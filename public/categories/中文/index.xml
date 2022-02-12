@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hi, I&#39;m Astra. on Astra In Space</title>
-    <link>https://astra-in-space.netlify.app/</link>
-    <description>Recent content in Hi, I&#39;m Astra. on Astra In Space</description>
+    <title>中文 on Astra In Space</title>
+    <link>https://astra-in-space.netlify.app/categories/%E4%B8%AD%E6%96%87/</link>
+    <description>Recent content in 中文 on Astra In Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://astra-in-space.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://astra-in-space.netlify.app/categories/%E4%B8%AD%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Matters 2021</title>
       <link>https://astra-in-space.netlify.app/blog/matters2021/</link>
@@ -25,26 +25,6 @@ Mrs.America：我觉得对于人物的刻画挺深刻的。让我了解了很多
 請填空：2021，＿＿ matters   2021, your mood matters.
 学习到的最大的一课就是辨别，承认，尊重自己的感受。希望明年也能做到！
 這題留給你，請向自己發出一個靈魂的提問，然後寫下你的回答）    会找到自己热爱的，让自己终于满足到可以停下搜寻的脚步的职业吗？ 可能会，可能不会，但是都没关系，在路上我已经见到最美的风景，遇到了最温柔的人。  </description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://astra-in-space.netlify.app/contact/</link>
-      <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
-      
-      <guid>https://astra-in-space.netlify.app/contact/</guid>
-      <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.
-Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
-    </item>
-    
-    <item>
-      <title>License</title>
-      <link>https://astra-in-space.netlify.app/license/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://astra-in-space.netlify.app/license/</guid>
-      <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.
-  </description>
     </item>
     
   </channel>
